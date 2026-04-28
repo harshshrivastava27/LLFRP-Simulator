@@ -1,0 +1,6 @@
+# Binaries
+scheduler
+
+# Objects
+*.o
+*.d
