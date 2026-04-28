@@ -1,0 +1,8 @@
+# Task set from Table I of the paper (Baid et al., LLFRP, 2014).
+# Format: phase  period  wcet  deadline
+# Expected hyperperiod = 20.
+# Expected: T1=5 jobs, T2=4 jobs, T3=1 job. LLFRP should produce
+# exactly 1 preemption (paper Section III worked example).
+0   4   1   4
+0   5   2   5
+0  20   7  20

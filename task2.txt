@@ -1,0 +1,5 @@
+# A second, denser task set for stress testing.
+# Format: phase period wcet deadline
+0  6   2  6
+0  7   2  7
+0 14   5 14
